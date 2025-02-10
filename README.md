@@ -2,8 +2,7 @@
 Experience Weighted Attraction Learning Agent
 # Published Research Paper
 Hang Qi, Shoufeng Ma, Ning Jia, Guangchao Wang,
-Experiments on individual strategy updating in iterated snowdrift game under random rematching,
-Journal of Theoretical Biology,
-Volume 368, 2015, Pages 1-12,
-https://doi.org/10.1016/j.jtbi.2014.12.008.
+Individual response modes to pre-trip information in congestible networks: laboratory experiment,
+Transportmetrica A: Transport Science,2018
+To link to this article: https://doi.org/10.1080/23249935.2018.1485061 
 
